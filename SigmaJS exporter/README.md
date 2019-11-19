@@ -32,6 +32,9 @@ That is all we need to do to publish our visualization online. Although, as we c
 6. Compute attributes.
 * Modularity (Use weights: `False`)
 * Average Degree
+
+![Modularity](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/modularity-degree.gif)
+
 7. Color nodes according to their modularity class and make their size coorespond to their degree.
 
 ![Attributes](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/color-and-size.gif)
@@ -45,7 +48,7 @@ That is all we need to do to publish our visualization online. Although, as we c
 
 10. Display labels, reduce the font size and use Label Adjust layout to prevent overlapping node labels.
 
-![LabelAdjust](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/label-adjust.gif)
+![LabelAdjust](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/scale.gif)
 
 11. The layout looks more user-friednly now. Export SigmaJS template once again and check it on localhost (steps 4 and 5).
 
