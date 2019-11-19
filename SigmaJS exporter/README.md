@@ -9,8 +9,8 @@ In this tutorial we will learn:
 
 ![Plugins](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/Plugins.png)
 
-2. Open GEXF file in Gephi (File->Open...). In this example, we are going to work with a subsample of English Wikipedia. The most popular pages over the period 16-31 August 2018.
-3. Compute (any) layout. To start with, compute Multigravity Force Atlas 2.
+2. Open GEXF file in Gephi (`File->Open...`). In this example, we are going to work with a subsample of English Wikipedia. The most popular pages over the period 16-31 August 2018.
+3. Compute (any) layout. Let's start with **Multigravity Force Atlas 2**.
 
 Parameters:
 
@@ -18,7 +18,7 @@ Parameters:
 * Edge Weight Influence: 0
 * Dissuade hubs: True
 
-4. Export SigmaJS template (File->Export->SigmaJS template). Fill in all required fields.
+4. Export **SigmaJS template** (`File->Export->SigmaJS template`). Fill in all required fields.
 5. Go to the exported folder and start a simple python HTTP server to test your visualization. Depending on Python version, in terminal, type the following command.
 
 Python 3.X `python -m http.server`
@@ -39,14 +39,13 @@ That is all we need to do to publish our visualization online. Although, as we c
 
 ![Attributes](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/color-and-size.gif)
 
-8. Compute Circle Pack layout. Use modularity and degree as parameters.
+8. Use **Circle Pack layout** to rearrange nodes according to attributes. Use modularity and degree as parameters.
 * Hierarchy1: Modularity
 * Hierarchy2: Degree
-9. Use Expansion Layout to increase the scale of the layout.
 
 ![CirclePack](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/CirclePack.png)
 
-10. Display labels, reduce the font size and use Label Adjust layout to prevent overlapping node labels.
+10. Adjust the scale and labels. Use **Expansion layout** to increase the scale of the layout. Display labels, reduce the font size and use **Label Adjust layout** to prevent overlapping node labels.
 
 ![LabelAdjust](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/scale.gif)
 
