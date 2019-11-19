@@ -9,6 +9,7 @@ In this tutorial we will learn:
 ![Plugins](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/Plugins.png)
 2. Open GEXF file in Gephi (`File->Open...`). In this example, we are going to work with a subsample of English Wikipedia. The most popular pages over the period 16-31 August 2018.
 3. Compute (any) layout. Let's start with **Multigravity Force Atlas 2**.
+
 Parameters:
 * Scaling: 10
 * Edge Weight Influence: 0
