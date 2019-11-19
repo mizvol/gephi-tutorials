@@ -1,9 +1,9 @@
 # SigmaJS Exporter tutorial
 
-Preparing layout, exporting SigmaJS template and publishing on GitHub pages
+Preparing layout, exporting SigmaJS template and publishing your interactive visualization on GitHub pages.
 
-1. Take a graph file (e.g. .gexf). In this case, we will work with a subsample of English Wikipedia. The most popular pages over the period 16-31 August 2018.
-2. Install layout plugins (Multigravity Force Atlas 2, Circle Pack, Label Adjust, SigmaJS exporter)
+1. Install all necessary plugins (Multigravity Force Atlas 2, Circle Pack, Label Adjust, SigmaJS exporter)
+2. Open GEXF file in Gephi. In this example, we are going to work with a subsample of English Wikipedia. The most popular pages over the period 16-31 August 2018.
 3. Compute Force Atlas layout.
 4. Export SigmaJS template. 
 5. Start python simpleHTTPserver (depending on Python version).
