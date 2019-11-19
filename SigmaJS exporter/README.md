@@ -17,8 +17,8 @@ Parameters:
 4. Export **SigmaJS template** (`File->Export->SigmaJS template`). Fill in all required fields.
 5. Go to the exported folder and start a simple python HTTP server to test your visualization. Depending on Python version, in terminal, type the following command.
 
-Python 3.X `python -m http.server`
-Python 2.7 `python -m SimpleHTTPServer`
+* Python 3.X `python -m http.server`
+* Python 2.7 `python -m SimpleHTTPServer`
 
 Now, you can interact with your graph using a web-browser. Go to http://localhost:8000/ and play with it.
 
