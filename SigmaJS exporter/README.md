@@ -23,6 +23,7 @@ Parameters:
 Now, you can interact with your graph using a web-browser. Go to http://localhost:8000/ and play with it.
 
 That is all we need to do to publish our visualization online. Although, as we can see, the graph looks quite raw and it is hard to interact with it. Let's compute more attributes and make the graph look nicer and more user-friendly.
+
 6. Compute attributes.
 * Modularity (Use weights: `False`)
 * Average Degree
@@ -36,10 +37,10 @@ That is all we need to do to publish our visualization online. Although, as we c
 9. Adjust the scale and labels. Use **Expansion layout** to increase the scale of the layout. Display labels, reduce the font size and use **Label Adjust layout** to prevent overlapping node labels.
 ![LabelAdjust](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/scale.gif)
 10. The layout looks more user-friednly now. Export SigmaJS template once again and check it on localhost (steps 4 and 5).
-11. Optional. You can adjust properties of the visualization using the config file that you can find in the folder with our SigmaJS template. Play with SigmaJS config file:
+11. *Optional.* You can adjust properties of the visualization using the config file that you can find in the folder with our SigmaJS template. Play with SigmaJS config file:
 * Choose node sizes.
 * Adjust label thresholds.
-12. Optional. If you are familiar with HTML/CSS, you can customise the style of the web page.
+12. *Optional.* If you are familiar with HTML/CSS, you can customise the style of the web page.
 13. Now, we can publish everything to GitHub pages.
     * Create a GitHub repository.
     * Go to the settings of your repository and find GitHub pages section. Specify `master branch` as source. 
