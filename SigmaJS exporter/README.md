@@ -7,7 +7,7 @@ In this tutorial we will learn:
 
 1. Install all necessary plugins (Multigravity Force Atlas 2, Circle Pack, Label Adjust, SigmaJS exporter)
 
-IMAGE
+![Plugins](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/Plugins.png)
 
 2. Open GEXF file in Gephi (File->Open...). In this example, we are going to work with a subsample of English Wikipedia. The most popular pages over the period 16-31 August 2018.
 3. Compute (any) layout. To start with, compute Multigravity Force Atlas 2.
@@ -34,18 +34,18 @@ That is all we need to do to publish our visualization online. Although, as we c
 * Average Degree
 7. Color nodes according to their modularity class and make their size coorespond to their degree.
 
-GIF
+![Attributes](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/color-and-size.gif)
 
 8. Compute Circle Pack layout. Use modularity and degree as parameters.
 * Hierarchy1: Modularity
 * Hierarchy2: Degree
 9. Use Expansion Layout to increase the scale of the layout.
 
-IMAGE
+![CirclePack](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/CirclePack.png)
 
 10. Display labels, reduce the font size and use Label Adjust layout to prevent overlapping node labels.
 
-GIF
+![LabelAdjust](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/label-adjust.gif)
 
 11. The layout looks more user-friednly now. Export SigmaJS template once again and check it on localhost (steps 4 and 5).
 
