@@ -25,7 +25,7 @@ Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
 		* *Num Iterations*. Higher values lead to larger expansion.
 
 ### Attributes
-##### Node size
+#### Node size
    1. Degree. Connectivity of a node
    2. Centrality
    		* Betweenness. Number of random walks passing through the node
@@ -33,10 +33,10 @@ Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
    3. Page rank. Importance of a node
    4. Clustering coefficient. Determines how close are neighbours of a node to a complete graph
 
-##### Color
+#### Color
    1. Community detection
-   	* Louvain
-   	* Leiden
+   		* Louvain
+   		* Leiden
     
 ### Attributed layouts
 1. Circular layout
