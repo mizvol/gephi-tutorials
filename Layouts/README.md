@@ -1,10 +1,8 @@
 # Layouts tutorial
 
-Prepare a relatively small graph (~2000 nodes ~10000 edges)
-
 **IMPORTANT.** Install plugins (Multigravity Force Atlas 2, Circle pack, Leiden, Bridging centrality, Clustering coefficient)
 
-1. Force-directed layouts.
+### Force-directed layouts.
 
 * Examples
 
@@ -28,7 +26,7 @@ Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
 		* *Edge Cut (0 to 1)*. Higher values lead to more clustered results.
 		* *Num Iterations*. Higher values lead to larger expansion.
 
-2. Attributes
+### Attributes
     * Node size
     	* *Degree*. Connectivity of a node
     	* *Centrality*
@@ -38,12 +36,12 @@ Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
     	* *Clustering coefficient*. Determines how close are neighbours of a node to a complete graph
     * Color
     	* Community detection (Louvain, Leiden)
-3. Attributed layouts
+### Attributed layouts
     * Circular layout
     * Radial Axis
 	* Splitter
 	* Circle pack
-4. Spatial transformation layouts (to enhance readability)
+### Spatial transformation layouts (to enhance readability)
 	* Expansion/Contraction (change scale)
 	* Noverlap (prevent overlap of nodes)
 	* Label adjust (prevent overlap of labels)
