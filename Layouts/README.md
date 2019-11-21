@@ -6,13 +6,13 @@ Prepare a relatively small graph (~2000 nodes ~10000 edges)
 
 1. Force-directed layouts
     * Multigravity Force Atlas 2 (Scaling 100, Dissuade hubs)
-    GIF
+    ![Multigravity Force Atlas 2](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/force-atlas.gif)
     * Yuifan Hu (Default)
-    GIF
+    ![Yuifan-hu](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/yifan-hu.gif)
     * Fruchterman-Reingold (Gravity 0, Speed 100)
-    GIF
+    ![Fruchterman-Reingold](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/f-r.gif)
     * Open Ord (Default)
-    GIF
+    ![Open Ord](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/openord.gif)
 2. Attributes
     * Node size
     	* Degree. Connectivity of a node.
