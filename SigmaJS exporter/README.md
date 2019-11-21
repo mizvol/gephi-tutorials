@@ -45,7 +45,7 @@ That is all we need to do to publish our visualization online. Although, as we c
     * Create a GitHub repository.
     * Go to the settings of your repository and find GitHub pages section. Specify `master branch` as source. 
     * Clone the repository.
-    * Copy the exported SigmaJS template that we have prepared.
+    * Copy the exported SigmaJS template that we have prepared to the cloned folder.
     * Push the files to the repository.
     * Check the website with your interactive visualization (https://[YOUR-GITHUB-USER-NAME].github.io/[VIS-REPOSITORY-NAME]/network/)
     * Et voila. You have just published your interactive graph visualization online.
