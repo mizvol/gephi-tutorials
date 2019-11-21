@@ -14,26 +14,28 @@ Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
 
 * Parameters
 	* Multigravity Force Atlas 2 
-		* Scaling. Control scale of the expansion of the graph. 
-		* Dissuade hubs. Apply stronger repulshion forces to hubs.
-		* Prevent overlap. Prevent nodes from overlapping.
+		* *Scaling*. Control scale of the expansion of the graph. 
+		* *Dissuade hubs*. Apply stronger repulshion forces to hubs.
+		* *Prevent overlap*. Prevent nodes from overlapping.
 	* Yuifan Hu
-		* Step ratio. High ratio improves quality (at the expense of speed)
-		* Optimal distance. Controls distance between nodes
-		* Theta. Smaller Theta gives leads to more accurate results (slower)
+		* *Step ratio*. High ratio improves quality (at the expense of speed)
+		* *Optimal distance*. Controls distance between nodes
+		* *Theta*. Smaller Theta gives leads to more accurate results (slower)
 	* Fruchterman-Reingold
-		* Gravity. Attraction strength.
-		* Speed. Tradeoff between speed and accuracy. Higher values lead to faster but less accurate results
+		* *Gravity*. Attraction strength.
+		* *Speed*. Tradeoff between speed and accuracy. Higher values lead to faster but less accurate results
 	* Open Ord
-		* Edge Cut (0 to 1). Higher values lead to more clustered results.
-		* Num Iterations. Higher values lead to larger expansion.
+		* *Edge Cut (0 to 1)*. Higher values lead to more clustered results.
+		* *Num Iterations*. Higher values lead to larger expansion.
 
 2. Attributes
     * Node size
-    	* Degree. Connectivity of a node.
-    	* Centrality (betweenness (number of random walks passing through the node), bridging (measure of bi-partisanship, nodes that connect multiple communities (serve as bridges) have high bridging centrality))
-    	* Page rank (importance of a node).
-    	* Clustering coefficient.
+    	* *Degree*. Connectivity of a node
+    	* *Centrality*
+		* *Betweenness*. Number of random walks passing through the node
+		* *Bridging*. Measure of bi-partisanship of a node. Nodes that connect multiple communities (serve as bridges) have high bridging centrality
+    	* *Page rank*. Importance of a node
+    	* *Clustering coefficient*. Determines how close are neighbours of a node to a complete graph
     * Color
     	* Community detection (Louvain, Leiden)
 3. Attributed layouts
