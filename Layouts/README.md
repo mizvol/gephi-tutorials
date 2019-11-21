@@ -8,7 +8,7 @@ Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![Multigravity Force Atlas 2](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/force-atlas.gif)  |  ![Yuifan-hu](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/yifan-hu.gif) | ![Fruchterman-Reingold](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/f-r.gif) | ![Open Ord](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/openord.gif)
 
-Parameters
+* Parameters
 	* Multigravity Force Atlas 2 
 		* *Scaling*. Control scale of the expansion of the graph. 
 		* *Dissuade hubs*. Apply stronger repulshion forces to hubs.
@@ -41,12 +41,12 @@ Parameters
 ### Attributed layouts
 1. Circular layout
 2. Radial Axis
-		* Splitter
-		* Circle pack
+	* Splitter
+	* Circle pack
 
 ### Spatial transformation layouts (to enhance readability)
-* Expansion/Contraction (change scale)
-* Noverlap (prevent overlap of nodes)
-* Label adjust (prevent overlap of labels)
+1. Expansion/Contraction (change scale)
+2. Noverlap (prevent overlap of nodes)
+3. Label adjust (prevent overlap of labels)
 
 Some information is taken from the official [Gephi tutorial](https://gephi.org/users/tutorial-layouts/).
