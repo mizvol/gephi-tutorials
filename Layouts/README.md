@@ -8,7 +8,7 @@ Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![Multigravity Force Atlas 2](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/force-atlas.gif)  |  ![Yuifan-hu](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/yifan-hu.gif) | ![Fruchterman-Reingold](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/f-r.gif) | ![Open Ord](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/openord.gif)
 
-* Parameters
+Parameters
 	* Multigravity Force Atlas 2 
 		* *Scaling*. Control scale of the expansion of the graph. 
 		* *Dissuade hubs*. Apply stronger repulshion forces to hubs.
@@ -26,20 +26,24 @@ Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
 
 ### Attributes
 ##### Node size
-   1. *Degree*. Connectivity of a node
-   2. *Centrality*
-   	* *Betweenness*. Number of random walks passing through the node
-   	* *Bridging*. Measure of bi-partisanship of a node. Nodes that connect multiple communities (serve as bridges) have high bridging centrality
-    3. *Page rank*. Importance of a node
-    4. *Clustering coefficient*. Determines how close are neighbours of a node to a complete graph
+   1. Degree. Connectivity of a node
+   2. Centrality
+   		* Betweenness. Number of random walks passing through the node
+   		* Bridging. Measure of bi-partisanship of a node. Nodes that connect multiple communities (serve as bridges) have high bridging centrality
+   3. Page rank. Importance of a node
+   4. Clustering coefficient. Determines how close are neighbours of a node to a complete graph
+
 ##### Color
-   1. Community detection (Louvain, Leiden)
+   1. Community detection
+   	* Louvain
+   	* Leiden
     
 ### Attributed layouts
-   * Circular layout
-   * Radial Axis
-	* Splitter
-	* Circle pack
+1. Circular layout
+2. Radial Axis
+		* Splitter
+		* Circle pack
+
 ### Spatial transformation layouts (to enhance readability)
 * Expansion/Contraction (change scale)
 * Noverlap (prevent overlap of nodes)
