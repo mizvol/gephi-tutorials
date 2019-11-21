@@ -11,17 +11,22 @@ Prepare a relatively small graph (~2000 nodes ~10000 edges)
 Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![Multigravity Force Atlas 2](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/force-atlas.gif)  |  ![Yuifan-hu](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/yifan-hu.gif) | ![Fruchterman-Reingold](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/f-r.gif) | ![Open Ord](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/openord.gif)
+
 * Parameters
 	* Multigravity Force Atlas 2 
-		* Scaling 100
-		* Dissuade hubs
+		* Scaling. Control scale of the expansion of the graph. 
+		* Dissuade hubs. Apply stronger repulshion forces to hubs.
+		* Prevent overlap. Prevent nodes from overlapping.
 	* Yuifan Hu
-		* Default
+		* Step ratio. High ratio improves quality (at the expense of speed)
+		* Optimal distance. Controls distance between nodes
+		* Theta. Smaller Theta gives leads to more accurate results (slower)
 	* Fruchterman-Reingold
-		* Gravity 0
-		* Speed 100
+		* Gravity. Attraction strength.
+		* Speed. Tradeoff between speed and accuracy. Higher values lead to faster but less accurate results
 	* Open Ord
-		* Default
+		* Edge Cut (0 to 1). Higher values lead to more clustered results.
+		* Num Iterations. Higher values lead to larger expansion.
 
 2. Attributes
     * Node size
@@ -40,3 +45,5 @@ Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
 	* Expansion/Contraction (change scale)
 	* Noverlap (prevent overlap of nodes)
 	* Label adjust (prevent overlap of labels)
+
+Some information is taken from the official [Gephi tutorial](https://gephi.org/users/tutorial-layouts/).
