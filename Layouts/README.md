@@ -78,4 +78,9 @@ Normally, after all transformations we have performed, it's hard to read labels.
 2. *Noverlap*. Use it to prevent overlap of nodes.
 3. *Label adjust*. This layout spatializes labels so that they are easier to read. Before running it, you should display labels.
 
-Some information is taken from the official [Gephi tutorial](https://gephi.org/users/tutorial-layouts/).
+#### 5. Additional resources
+
+For more information, check out official Gephi tutorials:
+
+1. [Gephi tutorial](https://gephi.org/users/tutorial-layouts/) on layouts. 
+2. Other [Gephi tutorials](https://gephi.org/users/).
