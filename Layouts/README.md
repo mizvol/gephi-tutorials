@@ -44,6 +44,11 @@ Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
 3. Network splitter 3D
 4. Circle pack
 
+Circular |  Radial Axis | Network splitter 3D | Circle pack
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![Circular](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/circular.png)  |  ![Radial Axis](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/radial-axis.png) | ![Network splitter 3D](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/net-splitter.png) | ![Circle pack](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/Layouts/images/circle-pack.png)
+
+
 ### 4. Enhance readability with spatial transformation layouts
 1. Expansion/Contraction (change scale)
 2. Noverlap (prevent overlap of nodes)
