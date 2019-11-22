@@ -1,4 +1,4 @@
-# SigmaJS Exporter tutorial
+# SigmaJS Exporter tutorial. From Gephi to the Web
 
 In this tutorial we will learn:
  * How to prepare a graph layout before publishing it online.
