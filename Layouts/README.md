@@ -80,6 +80,8 @@ Normally, after all transformations we have performed, it's hard to read labels.
 
 #### 5. Additional resources
 
+If you want to learn how to publish Gephi graphs online, take a look at [this](https://github.com/mizvol/gephi-tutorials/blob/master/SigmaJS%20exporter/README.md) tutorial.
+
 For more information, check out official Gephi tutorials:
 
 1. [Gephi tutorial](https://gephi.org/users/tutorial-layouts/) on layouts. 
