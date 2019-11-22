@@ -38,7 +38,7 @@ That is all we need to do to publish our visualization online. Although, as we c
 ![LabelAdjust](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/scale.gif)
 10. The layout looks more user-friednly now. Export SigmaJS template once again and check it on localhost (steps 4 and 5).
 11. *Optional.* You can adjust properties of the visualization using the config file that you can find in the folder with our SigmaJS template. Play with SigmaJS config file:
-* Choose node sizes.
+* Adjust node sizes.
 * Adjust label thresholds.
 12. *Optional.* If you are familiar with HTML/CSS, you can customise the style of the web page.
 13. Now, we can publish everything to GitHub pages.
