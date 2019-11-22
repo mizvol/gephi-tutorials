@@ -2,7 +2,7 @@
 
 **IMPORTANT.** Install plugins (Multigravity Force Atlas 2, Circle pack, Leiden, Bridging centrality, Clustering coefficient)
 
-### 1. Force-directed layouts.
+### 1. Spacialize your graph with force-directed layouts.
 
 Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -24,7 +24,7 @@ Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
 		* *Edge Cut (0 to 1)*. Higher values lead to more clustered results.
 		* *Num Iterations*. Higher values lead to larger expansion.
 
-### 2. Attributes
+### 2. Highlight attributes
 #### Node size
    1. Degree. Connectivity of a node
    2. Centrality
@@ -38,13 +38,13 @@ Multigravity Force Atlas 2 |  Yuifan Hu | Fruchterman-Reingold | Open Ord
    		* Louvain
    		* Leiden
     
-### 3. Attributed layouts
-1. Circular layout
+### 3. Use attributed layouts
+1. Circular
 2. Radial Axis
-	* Splitter
-	* Circle pack
+3. Network splitter 3D
+4. Circle pack
 
-### 4. Spatial transformation layouts (to enhance readability)
+### 4. Enhance readability with spatial transformation layouts
 1. Expansion/Contraction (change scale)
 2. Noverlap (prevent overlap of nodes)
 3. Label adjust (prevent overlap of labels)
