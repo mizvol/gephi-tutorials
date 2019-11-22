@@ -8,7 +8,7 @@ In this tutorial we will learn:
 1. **IMPORTANT.** Install all necessary plugins before starting this tutorial (Multigravity Force Atlas 2, Circle Pack, Label Adjust, SigmaJS exporter).
 ![Plugins](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/Plugins.png)
 2. Open GEXF file in Gephi (`File->Open...`). In this example, we are going to work with a subsample of English Wikipedia. The most popular pages over the period 16-31 August 2018.
-3. Compute (any) layout. Let's start with **Multigravity Force Atlas 2**.
+3. Compute (any) layout. Let's start with **Multigravity Force Atlas 2**. Take a look at [this](https://github.com/mizvol/gephi-tutorials/tree/master/Layouts) tutorial for inspiration.
 
 Parameters:
 * Scaling: 10
