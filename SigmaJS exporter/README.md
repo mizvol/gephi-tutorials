@@ -57,7 +57,7 @@ Use **Circle Pack layout** to rearrange nodes according to attributes. Use *modu
 Adjust the scale and labels. Use **Expansion layout** to increase the scale of the layout. Display labels, reduce the font size and use **Label Adjust layout** to prevent overlapping node labels.
 ![LabelAdjust](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/scale.gif)
 
-### 10. Re-export SigmaJS layout and test it locally
+### 10. Export SigmaJS template once again and test it locally
 Our graph looks more user-friednly now. Export SigmaJS template once again and check it on localhost (steps 4 and 5).
 
 ### 11. Publish your graph on GitHub pages.
