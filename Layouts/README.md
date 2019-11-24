@@ -1,6 +1,6 @@
 # Layouts tutorial
 
-In this tutorial, we will go through the most popular tools for graph exploration in Gephi. We will learn how to get visual insights by spatializing and highlighting important attributes of graphs. As an example, we will use a subnetwork of Wikipedia pages that had anomalous visitor activity over the period 15-31 Octorber 2018. You can find the corresponding `.gexf` file in this folder.
+In this tutorial, we will try the most popular tools for graph exploration in Gephi. We will learn how to get visual insights by spatializing and highlighting important attributes of graphs. As an example, we will use a subnetwork of Wikipedia pages that had anomalous visitor activity over the period 15-31 Octorber 2018. You can find the corresponding `.gexf` file in this folder.
 
 Before starting this tutorial, install the following plugins (unless they are already installed):
 * Multigravity Force Atlas 2
