@@ -66,7 +66,7 @@ Gephi also provides a set of attributed layouts. You can use them to spatialize 
 
 1. *Circular*. We can use it to show distribution of nodes and their links and order nodes by an attribute and draw them on a circle.
 2. *Radial Axis*. This layout allows studying homophily by showing distributions of nodes inside groups. Axes radiate from the central circle. The layout groups nodes by an attribute and draw them in axes.
-3. *Network splitter 3D*. Use this if you want to unfold the graph in layers based on attributes. However, there is a trick. To use it, you need to copy a column with an attribute of interest and add *[Z]* in the end of the name of the column.
+3. *Network splitter 3D*. Use this if you want to unfold the graph in layers based on attributes. However, there is a trick. To use it, you need to copy a column with an attribute of interest and add *[Z]* in the end of the name of the column. *Z-maximum level* parameter should be equal to the number of layers you want to get, e.g. number of cummunities if you use communities as a splitting attribute.
 4. *Circle pack*. This layout allows to group nodes by attribute(s) and plotting them in circles.
 
 In the examples below, we use *modularity* as an attribute.
