@@ -6,7 +6,12 @@ In this tutorial we will learn:
  * How to publish your interactive graph visualization online using GitHub pages.
 
 ### 1. Install plugins
-Install all necessary plugins before starting this tutorial (Multigravity Force Atlas 2, Circle Pack, Label Adjust, SigmaJS exporter).
+Install all necessary plugins before starting this tutorial (unless they are already installed):
+* Multigravity Force Atlas 2
+* Circle Pack
+* Label Adjust
+* SigmaJS exporter.
+
 ![Plugins](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/Plugins.png)
 
 ### 2. Import graph
