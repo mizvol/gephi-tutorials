@@ -18,7 +18,7 @@ Install all necessary plugins before starting this tutorial (unless they are alr
 Open GEXF file in Gephi (`File->Open...`). In this example, we are going to work with a subsample of English Wikipedia. The most popular pages over the period 16-31 August 2018.
 
 ### 3. Compute layout
-Let's start with **Multigravity Force Atlas 2**. Take a look at [this](https://github.com/mizvol/gephi-tutorials/tree/master/Layouts) tutorial for inspiration.
+Let's start with **Multigravity Force Atlas 2**. Take a look at [this](https://github.com/mizvol/gephi-tutorials/tree/master/Layouts) tutorial for inspiration if you want to use another layout.
 
 Parameters:
 * Scaling: 10
