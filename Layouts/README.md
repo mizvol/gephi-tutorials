@@ -1,8 +1,13 @@
 # Layouts tutorial
 
-**IMPORTANT.** Before starting this tutorial, install plugins (Multigravity Force Atlas 2, Circle pack, Leiden, Bridging centrality, Clustering coefficient).
-
 In this tutorial, we will go through the most popular tools for graph exploration in Gephi. We will learn how to get visual insights by spatializing and highlighting important attributes of graphs.
+
+Before starting this tutorial, install the following plugins (unless they are already installed):
+* Multigravity Force Atlas 2
+* Circle Pack layout
+* Leiden algorithm
+* Bridging centrality
+* Clustering coefficient
 
 ### 1. Spacialize your graph with force-directed layouts.
 
