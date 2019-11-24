@@ -45,12 +45,12 @@ Some examples of attributes that can be used of sizing and coloring are listed b
 
 We can use the size to highlight local attributes of nodes.
 
-   1. Degree. Connectivity of a node
+   1. [Degree](https://en.wikipedia.org/wiki/Degree_(graph_theory)). Connectivity of a node
    2. Centrality
-   		* Betweenness. Number of random walks passing through the node
-   		* Bridging. Measure of bi-partisanship of a node. Nodes that connect multiple communities (serve as bridges) have high bridging centrality
-   3. Page rank. Importance of a node
-   4. Clustering coefficient. Determines how close are neighbors of a node to a complete graph
+   		* [Betweenness](https://en.wikipedia.org/wiki/Betweenness_centrality). Number of random walks passing through the node
+   		* [Bridging](http://www.cbmc.it/fastcent/doc/Bridging.htm). Measure of bi-partisanship of a node. Nodes that connect multiple communities (serve as bridges) have high bridging centrality
+   3. [Page rank](https://en.wikipedia.org/wiki/PageRank). Importance of a node
+   4. [Local clustering coefficient](https://en.wikipedia.org/wiki/Clustering_coefficient). Determines how close are neighbors of a node to a complete graph
 
 #### Color
 
