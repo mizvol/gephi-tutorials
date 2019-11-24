@@ -26,7 +26,7 @@ Parameters:
 * Dissuade hubs: True
 
 ### 4. Export SigmaJS template
-Export **SigmaJS template** using (`File->Export->SigmaJS template`). Fill in all required fields.
+Export **SigmaJS template** `File->Export->SigmaJS template` and fill in all required fields.
 
 ### 5. Test locally
 Go to the exported folder and start a simple python HTTP server to test your visualization. Depending on Python version, in terminal, type the following command.
