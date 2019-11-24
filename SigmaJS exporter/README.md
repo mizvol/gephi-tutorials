@@ -62,12 +62,12 @@ Our graph looks more user-friednly now. Export SigmaJS template once again and c
 
 ### 11. Publish your graph on GitHub pages.
 Now, we can publish everything to GitHub pages.
-    * Create a GitHub repository.
-    * Go to the settings of your repository and find GitHub pages section. Specify `master branch` as source. 
-    * Clone the repository.
-    * Copy the exported SigmaJS template that we have prepared to the cloned folder.
-    * Push the files to the repository.
-    * Check the website with your interactive visualization (https://[YOUR-GITHUB-USER-NAME].github.io/[VIS-REPOSITORY-NAME]/network/)
+* Create a GitHub repository.
+* Go to the settings of your repository and find GitHub pages section. Specify `master branch` as source. 
+* Clone the repository.
+* Copy the exported SigmaJS template that we have prepared to the cloned folder.
+* Push the files to the repository.
+* Check the website with your interactive visualization (https://[YOUR-GITHUB-USER-NAME].github.io/[VIS-REPOSITORY-NAME]/network/)
     * Et voila. You have just published your interactive graph visualization online.
 
 ### 12. *Optional.* Play with the config file
