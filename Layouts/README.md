@@ -9,7 +9,7 @@ Before starting this tutorial, install the following plugins (unless they are al
 * Bridging centrality
 * Clustering coefficient
 
-Watch a short walk-through screencast to get an idea of what we are going to do in this tutorial.
+Watch a short walk-through screencast to get an idea of what we are going to do in this tutorial. Attention: the video has sound.
 
 [![YouTube link](https://img.youtube.com/vi/aRZIeTroUog/0.jpg)](https://www.youtube.com/watch?v=aRZIeTroUog)
 
