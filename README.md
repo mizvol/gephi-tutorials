@@ -6,6 +6,6 @@ Gephi tutorials for the lecture on data visualization.
 
 ### List of tutorials
 1. [Layouts. Graph exploration](https://github.com/mizvol/gephi-tutorials/tree/master/Layouts)
-2. [SigmaJS exporter. Publish your graph online (hosting on GitHub pages)](https://github.com/mizvol/gephi-tutorials/tree/master/SigmaJS%20exporter)
+2. [SigmaJS exporter. Publish your graph online and host it on GitHub pages)](https://github.com/mizvol/gephi-tutorials/tree/master/SigmaJS%20exporter)
 
 ![Plugins](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/net.png)
