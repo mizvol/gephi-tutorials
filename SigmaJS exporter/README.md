@@ -5,6 +5,10 @@ In this tutorial we will learn:
  * How to export SigmaJS template and customize it.
  * How to publish your interactive graph visualization online using GitHub pages.
 
+Watch a short walk-through video get an idea of what we are going to do.
+
+[![YouTube link](https://img.youtube.com/vi/O8WrIHswvoY/0.jpg)](https://www.youtube.com/watch?v=O8WrIHswvoY){:target="_blank"}
+
 ### 1. Install plugins
 Install all necessary plugins before starting this tutorial (unless they are already installed):
 * Multigravity Force Atlas 2
