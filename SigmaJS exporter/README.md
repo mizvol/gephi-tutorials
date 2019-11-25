@@ -5,7 +5,7 @@ In this tutorial we will learn:
  * How to export SigmaJS template and customize it.
  * How to publish your interactive graph visualization online using GitHub pages.
 
-Watch a short walk-through video to get an idea of what we are going to do. Attention: the video has sound.
+Watch a short walk-through screencast to get an idea of what we are going to do. Attention: the video has sound.
 
 [![YouTube link](https://img.youtube.com/vi/O8WrIHswvoY/0.jpg)](https://www.youtube.com/watch?v=O8WrIHswvoY)
 
