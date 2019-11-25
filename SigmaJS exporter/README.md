@@ -33,7 +33,7 @@ Parameters:
 Export **SigmaJS template** `File->Export->SigmaJS template` and fill in all required fields.
 
 ### 5. Test locally
-Go to the exported folder and start a simple Python HTTP server to test your visualization. Depending on Python version, in terminal, type the following command.
+Go to the exported folder and start a simple Python HTTP server to test your visualization. Depending on Python version, in the terminal, type the following command.
 
 * Python 3.X `python -m http.server`
 * Python 2.7 `python -m SimpleHTTPServer`
@@ -50,7 +50,7 @@ We are going to use attributed layouts to enhance readability. Before doing that
 ![Modularity](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/modularity-degree.gif)
 
 ### 7. Color nodes according to their community
-Color nodes according to their modularity class and make their size coorespond to their degree.
+Color nodes according to their modularity class and make their size correspond to their degree.
 ![Attributes](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/color-and-size.gif)
 
 ### 8. Circle Pack layout
@@ -62,12 +62,12 @@ Adjust the scale and labels. Use **Expansion layout** to increase the scale of t
 ![LabelAdjust](https://raw.githubusercontent.com/mizvol/gephi-tutorials/master/SigmaJS%20exporter/images/scale.gif)
 
 ### 10. Export SigmaJS template once again and test it locally
-Our graph looks more user-friednly now. Export SigmaJS template once again and check it on localhost (steps 4 and 5).
+Our graph looks more readable now and it's much easier to interact with it. Export SigmaJS template once again and check it on localhost (steps 4 and 5).
 
 ### 11. Publish your graph on GitHub pages.
 Now, we can publish everything to GitHub pages.
 * Create a GitHub repository.
-* Go to the **settings** of your repository and find **GitHub pages** section. Specify `master branch` as source. 
+* Go to the **settings** of your repository and find **GitHub pages** section. Specify `master branch` as a source. 
 * Clone the repository.
 * Copy the exported SigmaJS template that we have prepared to the cloned folder.
 * Push the files to the repository.
