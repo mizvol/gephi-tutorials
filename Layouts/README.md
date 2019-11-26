@@ -13,7 +13,7 @@ Watch a short walk-through screencast to get an idea of what we are going to do 
 
 [![YouTube link](https://img.youtube.com/vi/aRZIeTroUog/0.jpg)](https://www.youtube.com/watch?v=aRZIeTroUog)
 
-### 1. Spacialize your graph with force-directed layouts.
+### 1. Spatialize your graph with force-directed layouts.
 
 To start with, let's spatialize our graph. To do that, we can use force-directed layouts. They don't require any attributes and quite easy to setup. We will try four layouts: **Multigravity Force Atlas 2**, **Yuifan Hu**, **Fruchterman-Reingold**, **Open Ord**. You can find all these layouts in the "Layout" pane. Here are some tips related to the parameters of each algorithm:
 
