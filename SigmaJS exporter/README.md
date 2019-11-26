@@ -7,7 +7,7 @@ In this tutorial we will learn:
 
 Watch a short walk-through screencast to get an idea of what we are going to do. Attention: the video has sound.
 
-[![YouTube link](https://img.youtube.com/vi/O8WrIHswvoY/0.jpg)](https://www.youtube.com/watch?v=O8WrIHswvoY)
+[![YouTube link](https://img.youtube.com/vi/ok4iFOe9niU/0.jpg)](https://www.youtube.com/watch?v=ok4iFOe9niU)
 
 ### 1. Install plugins
 Install all necessary plugins before starting this tutorial (unless they are already installed):
