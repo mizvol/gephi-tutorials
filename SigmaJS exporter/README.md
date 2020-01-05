@@ -5,6 +5,8 @@ In this tutorial we will learn:
  * How to export SigmaJS template and customize it.
  * How to publish your interactive graph visualization online using GitHub pages.
 
+As a result of this tutorial, you will create an interactive visualization that will look like [this](https://mizvol.github.io/gephi-tutorials/SigmaJS%20exporter/final-result/network/index.html).
+
 Watch a short walk-through screencast to get an idea of what we are going to do. Attention: the video has sound.
 
 [![YouTube link](https://img.youtube.com/vi/ok4iFOe9niU/0.jpg)](https://www.youtube.com/watch?v=ok4iFOe9niU)
