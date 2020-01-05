@@ -43,7 +43,7 @@ Multigravity Force Atlas 2 |  Yifan Hu | Fruchterman-Reingold | Open Ord
 
 With Gephi, we can highlight attributes of the nodes using different colors and sizes, reflecting the scale of the attributes. You can do it using "Appearance" pane. Before using the attributes, we should compute them using "Statistics" pane.
 
-Some examples of attributes that can be used of sizing and coloring are listed below.
+Some examples of attributes that can be used for sizing and coloring are listed below.
 
 #### Node and label size
 
